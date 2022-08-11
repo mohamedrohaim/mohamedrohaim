@@ -1,9 +1,11 @@
-<h1 align="center">Hi 👋, I'm mohamed rohiem</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Rohiem</h1>
 <h3 align="center">mobile developer & php laravel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedrohaim&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedrohaim" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedrohaim" alt="mohamedrohaim" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mo_rohiem" target="blank"><img src="https://img.shields.io/twitter/follow/mo_rohiem?logo=twitter&style=for-the-badge" alt="mo_rohiem" /></a> </p>
 
 - 🌱 I’m currently learning **php laravel**
 
@@ -15,8 +17,11 @@
 
 - 📄 Know about my experiences [https://mohamedrohaim.github.io/mohamed-rohiem/](https://mohamedrohaim.github.io/mohamed-rohiem/)
 
+- ⚡ Fun fact **Deleted code is debugged code**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/mo_rohiem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo_rohiem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohamed-rohiem-310927200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-rohiem-310927200" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15755020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15755020" height="30" width="40" /></a>
 <a href="https://fb.com/mohammedrohiem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammedrohiem" height="30" width="40" /></a>
@@ -31,3 +36,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedrohaim&show_icons=true&locale=en" alt="mohamedrohaim" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedrohaim&" alt="mohamedrohaim" /></p>
