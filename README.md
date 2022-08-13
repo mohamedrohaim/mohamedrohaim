@@ -22,8 +22,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mo_rohiem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo_rohiem" height="30" width="40" /></a>
-
-
 <a href="https://linkedin.com/in/mohamed-rohiem-310927200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-rohiem-310927200" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15755020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15755020" height="30" width="40" /></a>
 <a href="https://fb.com/mohammedrohiem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohammedrohiem" height="30" width="40" /></a>
@@ -41,6 +39,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedrohaim&" alt="mohamedrohaim" /></p>
 
 <h1 align="center">📱Projects</h1>
-<h2>🔴 Alaystation App</h2>
+<h2>🔴 Playstation App</h2>
 <p>👉 implementation for ui/ux (free adobe XD) using flutter framework</p>
 <img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQGT765mUnD1uw/feedshare-shrink_800/0/1659958446825?e=1663200000&v=beta&t=6qbOIMESOfF30-R57BjpZpZkKt6V-yG8Eb_Z5SwZjI4" height=100% width=100% />
