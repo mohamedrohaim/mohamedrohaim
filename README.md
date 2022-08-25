@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Rohiem</h1>
-<h3 align="center">mobile developer</h3>
+<h3 align="center">mobile developer & php laravel</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedrohaim&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedrohaim" /> </p>
 
@@ -37,8 +37,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedrohaim&show_icons=true&locale=en" alt="mohamedrohaim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedrohaim&" alt="mohamedrohaim" /></p>
-
-<h1 align="center">📱Projects</h1>
-<h2>🔴Playstation App</h2>
-<p>👉 implementation for ui/ux (free adobe XD) using flutter framework</p>
-<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQGT765mUnD1uw/feedshare-shrink_800/0/1659958446825?e=1663200000&v=beta&t=6qbOIMESOfF30-R57BjpZpZkKt6V-yG8Eb_Z5SwZjI4" height=100% width=100% />
