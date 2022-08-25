@@ -39,6 +39,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedrohaim&" alt="mohamedrohaim" /></p>
 
 <h1 align="center">📱Projects</h1>
-<h2>🔴 Playstation App</h2>
+<h2>🔴Playstation App</h2>
 <p>👉 implementation for ui/ux (free adobe XD) using flutter framework</p>
 <img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQGT765mUnD1uw/feedshare-shrink_800/0/1659958446825?e=1663200000&v=beta&t=6qbOIMESOfF30-R57BjpZpZkKt6V-yG8Eb_Z5SwZjI4" height=100% width=100% />
