@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/mo_rohiem" target="blank"><img src="https://img.shields.io/twitter/follow/mo_rohiem?logo=twitter&style=for-the-badge" alt="mo_rohiem" /></a> </p>
 
-- 🌱 I’m currently learning **php laravel**
+- 🌱 I’m currently learning **Android development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mohamedrohaim?tab=repositories](https://github.com/mohamedrohaim?tab=repositories)
 
-- 💬 Ask me about **flutter ,laravel**
+- 💬 Ask me about **android developmentl**
 
 - 📫 How to reach me **mohamedrohiem597@gmail.com**
 
@@ -39,8 +39,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedrohaim&" alt="mohamedrohaim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedrohaim&" alt="mohamedrohaim" /></p>
-
-<h1 align="center">📱Projects</h1>
-<h2>🔴 Playstation App</h2>
-<p>👉 implementation for ui/ux (free adobe XD) using flutter framework</p>
-<img align="center" src="https://media-exp1.licdn.com/dms/image/C4D22AQGT765mUnD1uw/feedshare-shrink_800/0/1659958446825?e=1663200000&v=beta&t=6qbOIMESOfF30-R57BjpZpZkKt6V-yG8Eb_Z5SwZjI4" height=100% width=100% />
