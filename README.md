@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Rohiem</h1>
+<h1 align="center"> I'm Mohamed Rohiem</h1>
 <h3 align="center">Android developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedrohaim&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedrohaim" /> </p>
@@ -7,18 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/mo_rohiem" target="blank"><img src="https://img.shields.io/twitter/follow/mo_rohiem?logo=twitter&style=for-the-badge" alt="mo_rohiem" /></a> </p>
 
-- 🌱 I’m currently learning **Android development**
+-  I’m currently learning **Android development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mohamedrohaim?tab=repositories](https://github.com/mohamedrohaim?tab=repositories)
 
-- 💬 Ask me about **android developmentl**
-
-- 📫 How to reach me **mohamedrohiem597@gmail.com**
-
-- 📄 Know about my experiences [https://mohamedrohaim.github.io/mohamed-rohiem/](https://mohamedrohaim.github.io/mohamed-rohiem/)
-
-- ⚡ Fun fact **Deleted code is debugged code**
-
+- email **mohamedrohiem597@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mo_rohiem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mo_rohiem" height="30" width="40" /></a>
