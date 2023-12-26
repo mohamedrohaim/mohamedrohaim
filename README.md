@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/mo_rohiem" target="blank"><img src="https://img.shields.io/twitter/follow/mo_rohiem?logo=twitter&style=for-the-badge" alt="mo_rohiem" /></a> </p>
 
--  I’m currently learning **Backend .Net core development**
+-  **Backend .Net core development**
 
 
 - email **mohamedrohiem597@gmail.com**
